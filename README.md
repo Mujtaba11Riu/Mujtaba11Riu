@@ -16,7 +16,7 @@ My journey involves deep learning in programming, bug bounty hunting, and tackli
 
 - **BS in Cyber Security**  Riphah International University *(Expected 2028)*
 - **B.A (A.D.A)**  KIU *(2023)*
-- **ICS (Computer Science)**  FBISE *(2020)*
+- **FSC (ICS) (Computer Science)**  FBISE *(2020)*
 - **Matric (General Science)**  FBISE *(2018)*
 
 ## 🏆 Major Achievements

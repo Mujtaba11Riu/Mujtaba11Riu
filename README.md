@@ -14,37 +14,37 @@ My journey involves deep learning in programming, bug bounty hunting, and tackli
 
 ## 🎓 Education & Qualifications
 
-- **BS in Cyber Security** - Riphah International University *(Expected 2028)*
-- **B.A (A.D.A)** - KIU *(2023)*
-- **ICS (Computer Science)** - FBISE *(2020)*
-- **Matric (General Science)** - FBISE *(2018)*
+- **BS in Cyber Security**  Riphah International University *(Expected 2028)*
+- **B.A (A.D.A)**  KIU *(2023)*
+- **ICS (Computer Science)**  FBISE *(2020)*
+- **Matric (General Science)**  FBISE *(2018)*
 
 ## 🏆 Major Achievements
 
 ### 🥇 CTF Competitions
 
-- **🔥 Top 6 Finalist – Air CTF 2025**  
+- **🔥 Top 6 Finalist  Air CTF 2025**  
   Secured 6th position competing against Pakistan's top universities (NUST, GIKI, COMSATS, UET, Bahria) with Team StealthWorm
 
-- **🎯 PCC 2025 Qualifiers – Team "TH3 S1L3NT D3STROY3R"**  
+- **🎯 PCC 2025 Qualifiers  Team "TH3 S1L3NT D3STROY3R"**  
   Ranked 54th among 274+ teams nationwide, solving 8 challenges across Web Exploitation, Cryptography, Forensics, and Reverse Engineering
 
 - **🏅 NaSCon'25 CTF Qualified Finalists**  
   Team StealthWorm secured 23rd place among 50+ teams across Pakistan (FAST-NUCES Islamabad)
 
-- **⚡ AirOverflow Wargames – 15 Challenges Solved**  
+- **⚡ AirOverflow Wargames  15 Challenges Solved**  
   Successfully completed challenges in Reverse Engineering, Web Exploitation, Forensics, Cryptography, and AI categories
 
 ### 📜 Certifications & Diplomas
 
 - **ISC2 Certified in Cybersecurity (CC)**
-- **Intro to Cybersecurity** - CISCO
-- **Network Defense** - CISCO
-- **IT Essentials** - 6 Months (CISCO Networking Academy)
-- **C++ Essentials 1** - 6 Months (CISCO Networking Academy)
-- **Intro to IoT & Digital Transformation** - CISCO
-- **UI/UX Design** - 3 Months
-- **Graphic Designing** - 6 Months
+- **Intro to Cybersecurity**  **(CISCO )**
+- **Network Defense**  **(CISCO )**
+- **IT Essentials**  6 Months **(CISCO )**
+- **C++ Essentials 1**  6 Months **(CISCO )**
+- **Intro to IoT & Digital Transformation**  **(CISCO )**
+- **UI/UX Design**  3 Months
+- **Graphic Designing**  6 Months
 - **Basic & Advanced Computer Courses**
 
 ### 🎖️ Platform Recognition
@@ -53,7 +53,7 @@ My journey involves deep learning in programming, bug bounty hunting, and tackli
 
 ## 💼 Professional Experience
 
-- **DevSecOps Intern** at PHI Consulting *(Currently Working)*
+
 - **Restaurant Visiting Manager** at Khoraak Khaana F10 Markaz Islamabad
 - **Cashier & Manager** at ZAMO Shawarma F10 Markaz *(2 Years)*
 - **Data Entry Operator** at Torcia Academy 6th Road *(8 Months)*

@@ -83,42 +83,9 @@ My journey involves deep learning in programming, bug bounty hunting, and tackli
 - 🤝 Complaint Handling & Contact Making
 - ⚡ Work Under Pressure
 
-## 📂 Featured Projects
 
-### 1️⃣ [ICT Project (HTML/CSS)](https://github.com/Mujtaba11Riu/First_ict_project_Riu)
-Developed to practice structured programming concepts using basic HTML/CSS for documentation.
 
-### 2️⃣ [Meal Ordering System (C++)](https://github.com/Mujtaba11Riu/meal-ordering-system)
-First-semester end C++ project featuring a console-based ordering system with categories, order summary, and billing functionality.
 
-### 3️⃣ [Meal Ordering System (Java - OOP)](https://github.com/Mujtaba11Riu/Meal-Ordering-System-Java)
-Second-semester end project implementing core Object-Oriented Programming concepts in Java for a more advanced and structured meal ordering system.
-
-### 4️⃣ [WiFi Deauther (DLD Project)](https://github.com/Mujtaba11Riu/WiFi-Deauther-DLD-Project)
-Implementation of deauthentication simulation for academic demonstration and defensive research. Used to study Wi-Fi behavior and mitigation techniques.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mujtaba11Riu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E0FF&icon_color=00FF00&text_color=FFFFFF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mujtaba11Riu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00E0FF&text_color=FFFFFF)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mujtaba11Riu&theme=radical&hide_border=true&background=0D1117&ring=00E0FF&fire=FF0000&currStreakLabel=00E0FF)
-
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-syedmujtaba773%40gmail.com-00E0FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedmujtaba773@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-syedmujtaba773-00E0FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedmujtaba773/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Mujtaba11Riu-00E0FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mujtaba11Riu)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-00E0FF?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923118334874)
-
-</div>
 
 ## 💭 Quote
 

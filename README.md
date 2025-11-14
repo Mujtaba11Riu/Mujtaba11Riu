@@ -51,15 +51,6 @@ My journey involves deep learning in programming, bug bounty hunting, and tackli
 
 - **TryHackMe**: Webbed Badge | Level 2 | Rank: 1,199,241 | Badges: 2/98
 
-## 💼 Professional Experience
-
-
-- **Restaurant Visiting Manager** at Khoraak Khaana F10 Markaz Islamabad
-- **Cashier & Manager** at ZAMO Shawarma F10 Markaz *(2 Years)*
-- **Data Entry Operator** at Torcia Academy 6th Road *(8 Months)*
-- **All-Rounder** at Astore Inn Hotel & Restaurant, Gilgit Baltistan *(1 Year)*
-- **Data Entry Operator** at Ropani Foundation *(8 Months)*
-- **Composing Institute Papers** *(1 Year)*
 
 ## 🛠️ Technical Skills
 

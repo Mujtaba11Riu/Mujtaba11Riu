@@ -78,18 +78,3 @@ My journey involves deep learning in programming, bug bounty hunting, and tackli
 
 
 
-## 💭 Quote
-
-> "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." - Gene Spafford
-
----
-
-<div align="center">
-  
-  ### 🔥 H4X0R S1NC3 2O21 🔥
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mujtaba11Riu&color=00E0FF&style=for-the-badge)
-  
-  **© 2025 Syed Mujtaba Zaidi | Professional Hacker Portfolio**
-  
-</div>

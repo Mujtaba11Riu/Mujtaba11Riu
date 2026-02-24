@@ -104,7 +104,7 @@ Bug Bounty    █████████░░░░░░░░░░░  45% 
 drwxr-xr-x  certifications/
 ├── 🔐  ISC2 Certified in Cybersecurity (CC) ................. [ACTIVE]
 ├── 🌐  CISCO — Intro to Cybersecurity ...................... [EARNED]
-├── 🛡️   CISCO — Network Defense ............................. [EARNED]
+  ├── 🛡️   CISCO — Network Defense ............................. [EARNED]
 ├── 💻  CISCO — IT Essentials (6 Months) .................... [EARNED]
 ├── 🔧  CISCO — C++ Essentials 1 (6 Months) ................. [EARNED]
 ├── 🌍  CISCO — Intro to IoT & Digital Transformation ....... [EARNED]

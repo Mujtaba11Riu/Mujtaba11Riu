@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:008f11&height=180&section=header&text=Syed%20Mujtaba%20Zaidi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=55&descSize=17" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,100:0057ff&height=180&section=header&text=Syed%20Mujtaba%20Zaidi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player&descAlignY=55&descSize=17" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=root%40mujtaba%3A~%23+whoami;Breaking+Things+the+Right+Way+%F0%9F%94%93;CTF+Player+%7C+Bug+Hunter+%7C+Researcher)](https://git.io/typing-svg)
 
@@ -83,6 +83,6 @@ Bug Bounty   █████████░░░░░░░░░░░  45% [
   root@mujtaba:~# exit — Connection closed. 👾
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008f11,100:00ff41&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057ff,100:0a0a2e&height=100&section=footer" />
 
 </div>

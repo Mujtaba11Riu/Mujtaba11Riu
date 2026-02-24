@@ -1,75 +1,122 @@
-# Hi there 👋 I'm Syed Mujtaba Zaidi
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Aspiring+Ethical+Hacker;Bug+Bounty+Hunter;Penetration+Tester)
-  
+
+```
+███╗   ███╗██╗   ██╗     ██╗████████╗ █████╗ ██████╗  █████╗ 
+████╗ ████║██║   ██║     ██║╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗
+██╔████╔██║██║   ██║     ██║   ██║   ███████║██████╔╝███████║
+██║╚██╔╝██║██║   ██║██   ██║   ██║   ██╔══██║██╔══██╗██╔══██║
+██║ ╚═╝ ██║╚██████╔╝╚█████╔╝   ██║   ██║  ██║██████╔╝██║  ██║
+╚═╝     ╚═╝ ╚═════╝  ╚════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+```
+
+### `> Syed Mujtaba Zaidi`
+**Cyber Security Enthusiast · Ethical Hacker · CTF Player**
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Level%202%20%7C%20Rank%201.2M-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![ISC2](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-006400?style=for-the-badge&logo=isc2&logoColor=white)](https://isc2.org)
+[![Cisco](https://img.shields.io/badge/CISCO-Network%20Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://cisco.com)
+
 </div>
 
-## 🚀 About Me
+---
 
-I'm a **Cyber Security Enthusiast** with a strong passion for ethical hacking, penetration testing, and digital defense. Currently pursuing my **BS in Cyber Security** at Riphah International University (Expected 2028), I actively explore network security, Linux, and web application testing to enhance my practical skills.
+## `whoami`
 
-My journey involves deep learning in programming, bug bounty hunting, and tackling real-world cybersecurity challenges. My goal is to contribute towards building a safer digital environment while continuously sharpening my technical expertise.
+```bash
+$ cat /etc/mujtaba/profile.txt
 
-## 🎓 Education & Qualifications
+[+] Name     : Syed Mujtaba Zaidi
+[+] Role     : Cybersecurity Student & CTF Competitor
+[+] Location : Pakistan 🇵🇰
+[+] Education: BS Cyber Security — Riphah International University (2028)
+[+] Team     : StealthWorm | TH3 S1L3NT D3STROY3R
+[+] Status   : Actively hunting bugs & breaking CTFs...
+```
 
-- **BS in Cyber Security**  Riphah International University *(Expected 2028)*
-- **B.A (A.D.A)**  KIU *(2023)*
-- **FSC (ICS) (Computer Science)**  FBISE *(2020)*
-- **Matric (General Science)**  FBISE *(2018)*
+I'm a **Cyber Security Enthusiast** with a passion for ethical hacking, penetration testing, and digital defense. I actively explore network security, Linux, and web application testing — learning by breaking things the right way. My goal is to help build a safer digital world while continuously leveling up my skills.
 
-## 🏆 Major Achievements
+---
 
-### 🥇 CTF Competitions
+## `./ctf_achievements.sh`
 
-- **🔥 Top 6 Finalist  Air CTF 2025**  
-  Secured 6th position competing against Pakistan's top universities (NUST, GIKI, COMSATS, UET, Bahria) with Team StealthWorm
+<div align="center">
 
-- **🎯 PCC 2025 Qualifiers  Team "TH3 S1L3NT D3STROY3R"**  
-  Ranked 54th among 274+ teams nationwide, solving 8 challenges across Web Exploitation, Cryptography, Forensics, and Reverse Engineering
+| 🏆 Competition | 🎯 Result | 👥 Team |
+|---|---|---|
+| **Air CTF 2025** | 🥇 **Top 6 Finalist** — vs NUST, GIKI, COMSATS, UET, Bahria | StealthWorm |
+| **PCC 2025 Qualifiers** | 🎯 **Ranked 54th / 274+ Teams** — 8 Challenges Solved | TH3 S1L3NT D3STROY3R |
+| **NaSCon'25 CTF** (FAST-NUCES) | 🏅 **23rd / 50+ Teams** | StealthWorm |
+| **AirOverflow Wargames** | ⚡ **15 Challenges Solved** | Solo |
 
-- **🏅 NaSCon'25 CTF Qualified Finalists**  
-  Team StealthWorm secured 23rd place among 50+ teams across Pakistan (FAST-NUCES Islamabad)
+</div>
 
-- **⚡ AirOverflow Wargames  15 Challenges Solved**  
-  Successfully completed challenges in Reverse Engineering, Web Exploitation, Forensics, Cryptography, and AI categories
+> **Challenge Categories:** Web Exploitation · Cryptography · Forensics · Reverse Engineering · AI
 
-### 📜 Certifications & Diplomas
+---
 
-- **ISC2 Certified in Cybersecurity (CC)**
-- **Intro to Cybersecurity**  **(CISCO )**
-- **Network Defense**  **(CISCO )**
-- **IT Essentials**  6 Months **(CISCO )**
-- **C++ Essentials 1**  6 Months **(CISCO )**
-- **Intro to IoT & Digital Transformation**  **(CISCO )**
-- **UI/UX Design**  3 Months
-- **Graphic Designing**  6 Months
-- **Basic & Advanced Computer Courses**
+## `cat skills.json`
 
-### 🎖️ Platform Recognition
+```json
+{
+  "offensive_security": [
+    "Penetration Testing",
+    "Bug Bounty Hunting",
+    "Web Application Security",
+    "Reverse Engineering",
+    "Cryptography & Forensics",
+    "Web Exploitation"
+  ],
+  "platforms": ["Linux", "Kali", "TryHackMe"],
+  "languages": ["Python", "C++", "Bash"],
+  "other": ["UI/UX Design", "Graphic Design", "Network Defense"]
+}
+```
 
-- **TryHackMe**: Webbed Badge | Level 2 | Rank: 1,199,241 | Badges: 2/98
+---
 
+## `ls ./certifications/`
 
-## 🛠️ Technical Skills
+```
+📁 certifications/
+├── 🔐 ISC2_Certified_in_Cybersecurity_(CC).cert
+├── 🌐 CISCO_Intro_to_Cybersecurity.cert
+├── 🛡️  CISCO_Network_Defense.cert
+├── 💻 CISCO_IT_Essentials_6mo.cert
+├── 🔧 CISCO_C++_Essentials_1_6mo.cert
+├── 🌍 CISCO_Intro_to_IoT_&_Digital_Transformation.cert
+├── 🎨 UI_UX_Design_3mo.cert
+└── 🖼️  Graphic_Designing_6mo.cert
+```
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-### Core Competencies
-- 🔐 **Penetration Testing & Bug Bounty Hunting**
-- 🐧 **Linux & Network Security**
-- 🌐 **Web Application Security Testing**
-- 💻 **Deep Learning in Coding & Programming**
-- 🔍 **Reverse Engineering**
-- 🔓 **Cryptography & Forensics**
-- 🛡️ **Web Exploitation**
+## `./education.log`
 
-### Soft Skills
-- 💬 Communication & Decision Making
-- 🤝 Complaint Handling & Contact Making
-- ⚡ Work Under Pressure
+```
+[2028] BS Cyber Security ................ Riphah International University  [IN PROGRESS]
+[2023] B.A (A.D.A) ...................... Karakoram International University ✓
+[2020] FSC (ICS) - Computer Science ..... FBISE ✓
+[2018] Matric - General Science ......... FBISE ✓
+```
+
+---
+
+## `ping stats.tryhackme.com`
+
+```
+TryHackMe Profile
+> Badges Earned : 2 / 98  🏅
+> Level         : 2
+> Badge         : Webbed 🕸️
+> Rank          : 1,199,241
+```
+
+---
+
+<div align="center">
+
+### `> Always learning. Always breaking. Always improving.`
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Mujtaba11Riu.Mujtaba11Riu&style=for-the-badge)
+
+</div>

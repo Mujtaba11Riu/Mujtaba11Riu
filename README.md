@@ -42,7 +42,7 @@
 | **MalTrack** | Malware incident response management system. C# WinForms + MSSQL backend |
 | **Keylogger Detector** | Python tool that detects keylogger activity |
 | [**Encryption-Decryption**](https://github.com/Mujtaba11Riu/Encryption-Decryption-) | C++ Caesar Cipher encrypt/decrypt with a colorful console UI |
-| [**Portfolio**](https://mujtaba11riu.github.io) | Personal portfolio and write-ups |
+| [**Portfolio**](https://syedmujtaba.dev) | Personal portfolio and write-ups |
 
 <!-- Repo bante hi MalTrack aur Keylogger Detector ke links yahan add kar dena:
      [**MalTrack**](https://github.com/Mujtaba11Riu/<repo-name>) -->
